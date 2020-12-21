@@ -1,2 +1,3 @@
 # stepic-autotests
-test repository for stepic
+Test repository for stepic autotests curs
+Here I'll save passed tasks
